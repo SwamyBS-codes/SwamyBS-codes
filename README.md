@@ -51,12 +51,50 @@
 
 > A quick snapshot of my current learning path and engineering interests.
 
-- 🎓 Information Science and Engineering student at **RV College of Engineering**
-- 💼 Interested in **scalable backend systems, AI-powered applications, and distributed systems**
-- 🚀 Focused on building **real-world impactful projects**, not just academic ones
-- 📚 Currently learning: **System Design, Advanced DSA, Cloud, and AI**
-- 💬 Ask me about: **JavaScript, Node.js, MongoDB, WebRTC, RAG systems**
-- ✉️ Email: **swamybs272@gmail.com**
+<table>
+  <tr>
+    <td width="50%" style="vertical-align:top; padding:15px; border:1px solid #22C55E; border-radius:12px; background: linear-gradient(135deg, #0b1220 0%, #111827 100%);">
+      <h4 style="color: #22C55E; margin-top: 0;">🎓 Education & Background</h4>
+      <p style="font-size: 13px; line-height: 1.8;">
+        <strong>Information Science Engineering</strong><br/>
+        <span style="color: #888;">RV College of Engineering</span><br/>
+        <span style="color: #22C55E;">📍 Bengaluru, Karnataka</span>
+      </p>
+    </td>
+    <td width="50%" style="vertical-align:top; padding:15px; border:1px solid #0EA5E9; border-radius:12px; background: linear-gradient(135deg, #0b1220 0%, #111827 100%);">
+      <h4 style="color: #0EA5E9; margin-top: 0;">💼 Current Focus</h4>
+      <p style="font-size: 13px; line-height: 1.8;">
+        <strong>Full-Stack Development</strong><br/>
+        <span style="color: #888;">Backend & AI Systems</span><br/>
+        <span style="color: #0EA5E9;">🚀 Building at Scale</span>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align:top; padding:15px; border:1px solid #F97316; border-radius:12px; background: linear-gradient(135deg, #0b1220 0%, #111827 100%);">
+      <h4 style="color: #F97316; margin-top: 0;">📚 Learning Path</h4>
+      <p style="font-size: 13px; line-height: 1.8;">
+        ✓ System Design Patterns<br/>
+        ✓ Advanced Data Structures<br/>
+        ✓ Cloud & Infrastructure
+      </p>
+    </td>
+    <td width="50%" style="vertical-align:top; padding:15px; border:1px solid #22C55E; border-radius:12px; background: linear-gradient(135deg, #0b1220 0%, #111827 100%);">
+      <h4 style="color: #22C55E; margin-top: 0;">💬 Ask Me About</h4>
+      <p style="font-size: 13px; line-height: 1.8;">
+        ⚡ JavaScript & Node.js<br/>
+        🗄️ MongoDB & System Design<br/>
+        🧠 RAG & LLM Systems
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/🎯-Problem_Solver-22C55E?style=for-the-badge" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/🔧-Systems_Builder-0EA5E9?style=for-the-badge" alt="Systems Builder" />
+  <img src="https://img.shields.io/badge/📈-Always_Learning-F97316?style=for-the-badge" alt="Always Learning" />
+</div>
 
 ---
 
