@@ -6,6 +6,8 @@
 
 <h4>ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0b1220&height=58&section=header&text=Building%20Scalable%20Backend%20%2B%20AI%20Products&fontSize=20&fontColor=22C55E&animation=fadeIn" alt="Hero headline card" />
+
 <p>
   <img src="https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   <img src="https://img.shields.io/badge/System_Design-Active_Learning-22C55E?style=flat-square" alt="System Design" />
@@ -31,7 +33,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 👨‍💻 About Me
+## ✦ 👨‍💻 About Me
 
 - 🎓 Information Science and Engineering student at **RV College of Engineering**
 - 💼 Interested in **scalable backend systems, AI-powered applications, and distributed systems**
@@ -44,42 +46,49 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 🧰 Tech & Tools
+## ✦ 🧰 Tech & Tools
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-2C2C2C?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0B2A20?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-001F3F?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-2D2D2D?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-</p>
+<table>
+  <tr>
+    <td width="50%" style="vertical-align:top; padding:12px; border:1px solid #30363d; border-radius:12px;">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td width="50%" style="vertical-align:top; padding:12px; border:1px solid #30363d; border-radius:12px;">
+      <strong>Web & Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-2C2C2C?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align:top; padding:12px; border:1px solid #30363d; border-radius:12px;">
+      <strong>Databases</strong><br/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-0B2A20?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-001F3F?style=flat-square&logo=mysql&logoColor=F29111" alt="MySQL" />
+    </td>
+    <td width="50%" style="vertical-align:top; padding:12px; border:1px solid #30363d; border-radius:12px;">
+      <strong>Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-2D2D2D?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 🚀 Featured Projects
+## ✦ 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_to-Internships_%7C_Backend_Roles_%7C_AI_Product_Engineering-111827?style=for-the-badge&logo=rocket&logoColor=22C55E" alt="Recruiter CTA" />
+</div>
 
 <table>
   <tr>
@@ -127,7 +136,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 📊 GitHub Stats
+## ✦ 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&bg_color=0D1117" alt="GitHub stats" />
@@ -147,7 +156,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 🧩 Coding Profile
+## ✦ 🧩 Coding Profile
 
 - **LeetCode**: Solved **700+ problems** | Rating **1600+** | **Top 20%**
 - **Problem Solving Focus**: Graphs, Dynamic Programming, Sliding Window, and Backend-driven DSA patterns
@@ -156,7 +165,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 🎯 Current Focus
+## ✦ 🎯 Current Focus
 
 - Building scalable full-stack apps
 - Improving backend and system design skills
@@ -166,7 +175,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:22C55E&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 🛠️ Now Building - 2026 Timeline
+## ✦ 🛠️ Now Building - 2026 Timeline
 
 <div align="center">
   <img src="https://img.shields.io/badge/2026_Goals-Execution_Mode-111827?style=for-the-badge&logo=github&logoColor=22C55E" alt="2026 Goals" />
@@ -183,7 +192,7 @@
 
 ---
 
-## 📌 Pinned Projects Showcase
+## ✦ 📌 Pinned Projects Showcase
 
 <div align="center">
   <p><strong>Selected builds that highlight real-world systems, AI, and backend depth.</strong></p>
@@ -237,13 +246,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## 🐍 Contribution Snake
+## ✦ 🐍 Contribution Snake
 
 <div align="center">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Available_for-Internships-22C55E?style=flat-square" alt="Available for internships" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-0EA5E9?style=flat-square" alt="Bengaluru" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%2B_AI-F59E0B?style=flat-square" alt="Backend and AI" />
+  <img src="https://img.shields.io/badge/Mindset-Build_for_Impact-7C3AED?style=flat-square" alt="Build for impact" />
+</div>
 
 <div align="center">
   <h3>Not just writing code — solving problems.</h3>
