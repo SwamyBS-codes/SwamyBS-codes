@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Swamy B S</h1>
-<h3>🚀 ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h3>
+<h3>ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;500%2B+LeetCode+Problems+Solved" alt="Typing SVG" /> 
 
@@ -103,8 +103,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </div>
 
 ### Top Languages
