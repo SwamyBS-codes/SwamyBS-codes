@@ -1,5 +1,7 @@
 <div align="center">
 
+Hi 👋, I'm
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=190&section=header&text=Swamy%20B%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Hero banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
