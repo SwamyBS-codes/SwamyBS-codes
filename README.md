@@ -104,8 +104,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&bg_color=0D1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub streak" />
 </div>
 
 ### Top Languages
