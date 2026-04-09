@@ -133,27 +133,56 @@
 
 ---
 
-## 📌 Pinned Projects Style Showcase
+## 📌 Pinned Projects Showcase
 
 <div align="center">
-
-<a href="https://github.com/SwamyBS-codes/Peer-to-Peer-File-Sharing-Network">
-  <img src="https://img.shields.io/badge/Peer--to--Peer_File_Sharing_Network-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Pinned project 1" />
-</a>
-<a href="https://github.com/SwamyBS-codes/Pharmacy-Management-System">
-  <img src="https://img.shields.io/badge/Pharmacy_Management_System-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Pinned project 2" />
-</a>
-<a href="https://github.com/SwamyBS-codes/Socratic-Questions-Generator">
-  <img src="https://img.shields.io/badge/Socratic_Questions_Generator-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Pinned project 3" />
-</a>
-
+  <p><strong>Selected builds that highlight real-world systems, AI, and backend depth.</strong></p>
 </div>
 
 <table>
   <tr>
-    <td width="33%"><strong>Peer-to-Peer File Sharing Network</strong><br/>WebRTC based resilient file transfer with chunking and retry logic.</td>
-    <td width="33%"><strong>Pharmacy Management System</strong><br/>Full-stack pharmacy workflow app with ML-based demand forecasting.</td>
-    <td width="33%"><strong>Socratic Questions Generator</strong><br/>RAG-powered adaptive system for concept-deepening question generation.</td>
+    <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
+      <div align="center">
+        <div style="font-size:20px; font-weight:700; margin-bottom:8px;">01</div>
+        <a href="https://github.com/SwamyBS-codes/Peer-to-Peer-File-Sharing-Network" style="text-decoration:none;">
+          <strong>🔗 Peer-to-Peer File Sharing Network</strong>
+        </a>
+      </div>
+      <p>Real-time file transfer platform with WebRTC, chunked delivery, and retry logic for unstable networks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square" alt="WebRTC" />
+        <img src="https://img.shields.io/badge/Chunked_Transfer-238636?style=flat-square" alt="Chunked Transfer" />
+        <img src="https://img.shields.io/badge/Retry_Logic-f59e0b?style=flat-square" alt="Retry Logic" />
+      </p>
+    </td>
+    <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
+      <div align="center">
+        <div style="font-size:20px; font-weight:700; margin-bottom:8px;">02</div>
+        <a href="https://github.com/SwamyBS-codes/Pharmacy-Management-System" style="text-decoration:none;">
+          <strong>💊 Pharmacy Management System</strong>
+        </a>
+      </div>
+      <p>Full-stack pharmacy workflow app with ML forecasting for smarter inventory and stock planning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full_Stack-0e7490?style=flat-square" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/ML_Forecasting-7c3aed?style=flat-square" alt="ML Forecasting" />
+        <img src="https://img.shields.io/badge/Inventory_AI-16a34a?style=flat-square" alt="Inventory AI" />
+      </p>
+    </td>
+    <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
+      <div align="center">
+        <div style="font-size:20px; font-weight:700; margin-bottom:8px;">03</div>
+        <a href="https://github.com/SwamyBS-codes/Socratic-Questions-Generator" style="text-decoration:none;">
+          <strong>🧠 Socratic Questions Generator</strong>
+        </a>
+      </div>
+      <p>RAG-powered adaptive AI system that generates concept-deepening Socratic prompts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-9a3412?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/Adaptive_AI-0369a1?style=flat-square" alt="Adaptive AI" />
+        <img src="https://img.shields.io/badge/LLM_Flow-8b5cf6?style=flat-square" alt="LLM Flow" />
+      </p>
+    </td>
   </tr>
 </table>
 
