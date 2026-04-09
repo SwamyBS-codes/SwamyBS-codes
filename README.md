@@ -5,9 +5,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=260&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
 
 <!-- Animated Typing Code Snippets Using External Service -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=180&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=160&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" style="display:block; margin:0 auto -12px auto;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=80&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=72&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" style="display:block; margin:0 auto;" />
 
 <h4>🎯 ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
 
@@ -50,40 +50,12 @@
 
 > A quick snapshot of my current learning path and engineering interests.
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="42">
-        <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=googlescholar&logoColor=22C55E" alt="Education icon" />
-      </td>
-      <td>Information Science and Engineering student at RV College of Engineering.</td>
-    </tr>
-    <tr>
-      <td width="42">
-        <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=nodedotjs&logoColor=22C55E" alt="Backend icon" />
-      </td>
-      <td>Focused on scalable backend systems, AI-powered applications, and distributed systems.</td>
-    </tr>
-    <tr>
-      <td width="42">
-        <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Learning icon" />
-      </td>
-      <td>Currently mastering System Design, Advanced DSA, Cloud Infrastructure, and AI/ML.</td>
-    </tr>
-    <tr>
-      <td width="42">
-        <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Tech stack icon" />
-      </td>
-      <td>Working with JavaScript, Node.js, MongoDB, WebRTC, RAG systems, and LLM integration.</td>
-    </tr>
-    <tr>
-      <td width="42">
-        <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=target&logoColor=0EA5E9" alt="Approach icon" />
-      </td>
-      <td>Problem-oriented development with scalability-first design and continuous learning.</td>
-    </tr>
-  </table>
-</div>
+- <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=googlescholar&logoColor=22C55E" alt="Education icon" /> Information Science and Engineering student at RV College of Engineering.
+- <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=nodedotjs&logoColor=22C55E" alt="Backend icon" /> Interested in AI-powered products, web platforms, and scalable backend systems.
+- <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=rocket&logoColor=F97316" alt="Projects icon" /> Love building projects that can become real products, not just assignments.
+- <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Learning icon" /> Currently deep-diving into System Design, DSA, Cloud Infrastructure, and Applied AI.
+- <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Tech stack icon" /> Ask me about JavaScript, Node.js, MongoDB, WebRTC, and AI + Web integrations.
+- <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email icon" /> Reach me at swamybs272@gmail.com.
 ---
 ## ✦ 🧰 Tech & Tools
 
