@@ -160,9 +160,9 @@
 ## ✦ 🧾 Top Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
 </p>
 
