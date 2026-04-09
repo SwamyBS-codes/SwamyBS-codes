@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 <!-- Animated Coding Hero Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=260&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
@@ -46,16 +45,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
 </div>
 
-## ✦ 👨‍💻 About Me
+## ✦ 🧠 About Me
 
 > A quick snapshot of my current learning path and engineering interests.
 
-<img src="https://img.shields.io/badge/-111827?style=flat-square&logo=googlescholar&logoColor=22C55E" alt="Education icon" /> Information Science and Engineering student at RV College of Engineering.
-<img src="https://img.shields.io/badge/-111827?style=flat-square&logo=nodedotjs&logoColor=22C55E" alt="Backend icon" /> Interested in AI-powered products, web platforms, and scalable backend systems.
-<img src="https://img.shields.io/badge/-111827?style=flat-square&logo=rocket&logoColor=F97316" alt="Projects icon" /> Love building projects that can become real products, not just assignments.
-<img src="https://img.shields.io/badge/-111827?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Learning icon" /> Currently deep-diving into System Design, DSA, Cloud Infrastructure, and Applied AI.
-<img src="https://img.shields.io/badge/-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Tech stack icon" /> Ask me about JavaScript, Node.js, MongoDB, WebRTC, and AI + Web integrations.
-<img src="https://img.shields.io/badge/-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email icon" /> Reach me at swamybs272@gmail.com.
+- 🎓 Information Science and Engineering student at RV College of Engineering
+- 💼 Interested in **AI-powered products, web platforms, and IoT systems**
+- 🚀 Love working on **projects that can become startups**, not just assignments
+- 📚 Currently deep diving into: **Web Dev, DSA, and Applied AI**
+- 💬 Ask me about: `JavaScript`, `Node.js`, `MongoDB`, `IoT projects`, `AI + Web integrations`
+- ✉️ Reach me at: **swamybs272@gmail.com**
 ---
 ## ✦ 🧰 Tech & Tools
 
