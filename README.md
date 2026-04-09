@@ -52,7 +52,7 @@
 > A quick snapshot of my current learning path and engineering interests.
 
 
- 🎓 **Information Science and Engineering** student at **RV College of Engineering**. I'm passionate about building **scalable backend systems, AI-powered applications, and distributed systems**. Currently mastering **System Design**, **Advanced DSA**, **Cloud Infrastructure**, and **AI/ML**. My expertise spans **JavaScript**, **Node.js**, **MongoDB**, **WebRTC**, **RAG Systems**, and **LLM Integration**. I'm focused on **real-world impactful projects** with production-grade architecture, following a problem-oriented development philosophy with scalability-first design and continuous learning at the core.
+🎓 Information Science and Engineering student at RV College of Engineering. I'm passionate about building scalable backend systems, AI-powered applications, and distributed systems. Currently mastering System Design, Advanced DSA, Cloud Infrastructure, and AI/ML. My expertise spans JavaScript, Node.js, MongoDB, WebRTC, RAG systems, and LLM integration. I'm focused on real-world impactful projects with production-grade architecture, following a problem-oriented development philosophy with scalability-first design and continuous learning at the core.
 ---
 ## ✦ 🧰 Tech & Tools
 
