@@ -5,32 +5,8 @@
 <!-- Animated Coding Hero Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=260&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
 
-<!-- Coding Style Box with Animations -->
-<div style="background: linear-gradient(135deg, #0b1220 0%, #111827 50%, #0b1220 100%); padding: 30px; border-radius: 12px; margin: 20px auto; width: 90%; max-width: 600px; border: 1px solid #22C55E; box-shadow: 0 0 20px rgba(34, 197, 94, 0.2);">
-  <p style="font-family: 'Courier New', monospace; color: #22C55E; font-size: 14px; text-align: left; margin: 10px 0; animation: fadeInOut 4s infinite;">
-    <span style="color: #0EA5E9;">const</span> dev = {<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;name: <span style="color: #F97316;">"Swamy"</span>,<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;passion: <span style="color: #F97316;">"Code"</span><br/>
-    }
-  </p>
-  
-  <p style="font-family: 'Courier New', monospace; color: #0EA5E9; font-size: 14px; text-align: center; margin: 15px 0; animation: fadeInOut 5s infinite; animation-delay: 1s;">
-    <span style="color: #0EA5E9;">function</span> buildAsync() {<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0EA5E9;">return</span> <span style="color: #F97316;">"Scalable Systems"</span><br/>
-    }
-  </p>
-
-  <p style="font-family: 'Courier New', monospace; color: #F97316; font-size: 16px; text-align: right; margin: 10px 0; animation: fadeInOut 6s infinite; animation-delay: 2s;">
-    AI + Backend = ❤️
-  </p>
-
-  <style>
-    @keyframes fadeInOut {
-      0%, 100% { opacity: 0.5; }
-      50% { opacity: 1; }
-    }
-  </style>
-</div>
+<!-- Animated Typing Code Snippets Using External Service -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=180&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=80&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
