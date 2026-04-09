@@ -1,47 +1,36 @@
 <div align="center">
 
-<!-- Animated Coding Background Hero Section -->
-<svg width="100%" height="250" style="margin: 20px 0; background: linear-gradient(135deg, #0b1220 0%, #111827 50%, #0b1220 100%); border-radius: 8px;">
-  <defs>
-    <style>
-      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
-      @keyframes fadeInOutSlow { 0%, 100% { opacity: 0.2; } 50% { opacity: 0.5; } }
-      @keyframes glow { 0%, 100% { filter: drop-shadow(0 0 3px #22C55E); } 50% { filter: drop-shadow(0 0 10px #22C55E); } }
-      .code-left { animation: fadeInOutSlow 4s infinite; }
-      .code-right { animation: fadeInOutSlow 5s infinite; animation-delay: 1s; }
-      .code-bottom { animation: fadeInOutSlow 6s infinite; animation-delay: 2s; }
-      .cursor { animation: blink 1s infinite; }
-      .greeting-text { animation: glow 2s ease-in-out infinite; }
-    </style>
-  </defs>
+<div align="center">
+
+<!-- Animated Coding Hero Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=260&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
+
+<!-- Coding Style Box with Animations -->
+<div style="background: linear-gradient(135deg, #0b1220 0%, #111827 50%, #0b1220 100%); padding: 30px; border-radius: 12px; margin: 20px auto; width: 90%; max-width: 600px; border: 1px solid #22C55E; box-shadow: 0 0 20px rgba(34, 197, 94, 0.2);">
+  <p style="font-family: 'Courier New', monospace; color: #22C55E; font-size: 14px; text-align: left; margin: 10px 0; animation: fadeInOut 4s infinite;">
+    <span style="color: #0EA5E9;">const</span> dev = {<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;name: <span style="color: #F97316;">"Swamy"</span>,<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;passion: <span style="color: #F97316;">"Code"</span><br/>
+    }
+  </p>
   
-  <!-- Code snippets in background -->
-  <text x="20" y="40" font-family="monospace" font-size="13" fill="#22C55E" class="code-left">const dev = {</text>
-  <text x="30" y="60" font-family="monospace" font-size="13" fill="#22C55E" class="code-left">  name: "Swamy",</text>
-  <text x="30" y="80" font-family="monospace" font-size="13" fill="#22C55E" class="code-left">  passion: "Code"</text>
-  <text x="20" y="100" font-family="monospace" font-size="13" fill="#22C55E" class="code-left">}</text>
-  
-  <text x="500" y="45" font-family="monospace" font-size="13" fill="#0EA5E9" class="code-right">function buildAsync() {</text>
-  <text x="530" y="70" font-family="monospace" font-size="13" fill="#0EA5E9" class="code-right">  return "Scalable";</text>
-  <text x="500" y="95" font-family="monospace" font-size="13" fill="#0EA5E9" class="code-right">}</text>
-  
-  <text x="35" y="200" font-family="monospace" font-size="14" fill="#F97316" class="code-bottom">AI + Backend = ❤️</text>
-  
-  <!-- Main greeting -->
-  <text x="50%" y="140" font-family="monospace" font-size="48" font-weight="bold" text-anchor="middle" fill="none" stroke="url(#gradient)" stroke-width="1" class="greeting-text">Hi 👋, I'm Swamy B S</text>
-  
-  <!-- Gradient definition for text -->
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0EA5E9;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#22C55E;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0EA5E9;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Cursor blink effect -->
-  <rect x="50%" y="145" width="2" height="35" fill="#22C55E" class="cursor" />
-</svg>
+  <p style="font-family: 'Courier New', monospace; color: #0EA5E9; font-size: 14px; text-align: center; margin: 15px 0; animation: fadeInOut 5s infinite; animation-delay: 1s;">
+    <span style="color: #0EA5E9;">function</span> buildAsync() {<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0EA5E9;">return</span> <span style="color: #F97316;">"Scalable Systems"</span><br/>
+    }
+  </p>
+
+  <p style="font-family: 'Courier New', monospace; color: #F97316; font-size: 16px; text-align: right; margin: 10px 0; animation: fadeInOut 6s infinite; animation-delay: 2s;">
+    AI + Backend = ❤️
+  </p>
+
+  <style>
+    @keyframes fadeInOut {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; }
+    }
+  </style>
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=80&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
