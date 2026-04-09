@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=190&section=header&text=Swamy%20B%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Hero banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;500%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 
 <h4>ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
 
@@ -27,6 +27,10 @@
   <img src="https://komarev.com/ghpvc/?username=SwamyBS-codes&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Open_to-Internships_%7C_Backend_%7C_AI_Roles-111827?style=for-the-badge&logo=rocket&logoColor=22C55E" alt="Recruiter CTA" />
+</p>
+
 </div>
 
 <div align="center">
@@ -35,6 +39,8 @@
 
 ## ✦ 👨‍💻 About Me
 
+> A quick snapshot of my current learning path and engineering interests.
+
 - 🎓 Information Science and Engineering student at **RV College of Engineering**
 - 💼 Interested in **scalable backend systems, AI-powered applications, and distributed systems**
 - 🚀 Focused on building **real-world impactful projects**, not just academic ones
@@ -42,11 +48,11 @@
 - 💬 Ask me about: **JavaScript, Node.js, MongoDB, WebRTC, RAG systems**
 - ✉️ Email: **swamybs272@gmail.com**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
-</div>
+---
 
 ## ✦ 🧰 Tech & Tools
+
+> My everyday toolkit for building full-stack and AI-powered applications.
 
 <table>
   <tr>
@@ -86,9 +92,7 @@
 
 ## ✦ 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Open_to-Internships_%7C_Backend_Roles_%7C_AI_Product_Engineering-111827?style=for-the-badge&logo=rocket&logoColor=22C55E" alt="Recruiter CTA" />
-</div>
+> Selected projects that show practical backend architecture and AI integration work.
 
 <table>
   <tr>
@@ -138,6 +142,8 @@
 
 ## ✦ 📊 GitHub Stats
 
+> Live coding consistency, activity, and language usage highlights.
+
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&bg_color=0D1117" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub streak" />
@@ -152,30 +158,30 @@
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
-</div>
+---
 
 ## ✦ 🧩 Coding Profile
+
+> Competitive programming metrics and problem-solving focus areas.
 
 - **LeetCode**: Solved **700+ problems** | Rating **1600+** | **Top 20%**
 - **Problem Solving Focus**: Graphs, Dynamic Programming, Sliding Window, and Backend-driven DSA patterns
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
-</div>
+---
 
 ## ✦ 🎯 Current Focus
+
+> Key areas I am actively improving this year.
 
 - Building scalable full-stack apps
 - Improving backend and system design skills
 - Exploring AI + Web integrations
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:22C55E&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
-</div>
+---
 
 ## ✦ 🛠️ Now Building - 2026 Timeline
+
+> Quarter-wise roadmap for backend depth, AI product work, and coding milestones.
 
 <div align="center">
   <img src="https://img.shields.io/badge/2026_Goals-Execution_Mode-111827?style=for-the-badge&logo=github&logoColor=22C55E" alt="2026 Goals" />
@@ -192,61 +198,9 @@
 
 ---
 
-## ✦ 📌 Pinned Projects Showcase
-
-<div align="center">
-  <p><strong>Selected builds that highlight real-world systems, AI, and backend depth.</strong></p>
-</div>
-
-<table>
-  <tr>
-    <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
-      <div align="center">
-        <div style="font-size:20px; font-weight:700; margin-bottom:8px;">01</div>
-        <a href="https://github.com/SwamyBS-codes/Peer-to-Peer-File-Sharing-Network" style="text-decoration:none;">
-          <strong>🔗 Peer-to-Peer File Sharing Network</strong>
-        </a>
-      </div>
-      <p>Real-time file transfer platform with WebRTC, chunked delivery, and retry logic for unstable networks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square" alt="WebRTC" />
-        <img src="https://img.shields.io/badge/Chunked_Transfer-238636?style=flat-square" alt="Chunked Transfer" />
-      </p>
-    </td>
-    <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
-      <div align="center">
-        <div style="font-size:20px; font-weight:700; margin-bottom:8px;">02</div>
-        <a href="https://github.com/SwamyBS-codes/Pharmacy-Management-System" style="text-decoration:none;">
-          <strong>💊 Pharmacy Management System</strong>
-        </a>
-      </div>
-      <p>Full-stack pharmacy workflow app with ML forecasting for smarter inventory and stock planning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full_Stack-0e7490?style=flat-square" alt="Full Stack" />
-        <img src="https://img.shields.io/badge/ML_Forecasting-7c3aed?style=flat-square" alt="ML Forecasting" />
-      </p>
-    </td>
-    <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
-      <div align="center">
-        <div style="font-size:20px; font-weight:700; margin-bottom:8px;">03</div>
-        <a href="https://github.com/SwamyBS-codes/Socratic-Questions-Generator" style="text-decoration:none;">
-          <strong>🧠 Socratic Questions Generator</strong>
-        </a>
-      </div>
-      <p>RAG-powered adaptive AI system that generates concept-deepening Socratic prompts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-9a3412?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Adaptive_AI-0369a1?style=flat-square" alt="Adaptive AI" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
-</div>
-
 ## ✦ 🐍 Contribution Snake
+
+> A visual snapshot of recent contribution activity.
 
 <div align="center">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake.svg" />
