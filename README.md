@@ -2,11 +2,43 @@
 
 <div align="center">
 
-<!-- Animated Coding Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=260&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
+<!-- Code Editor Hero Section -->
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 40px 20px; border-radius: 8px; margin: 20px 0; position: relative; overflow: hidden; border: 1px solid #22C55E; box-shadow: 0 0 30px rgba(34, 197, 94, 0.3);">
+  
+  <!-- IDE Top Bar -->
+  <div style="background: #0f1419; padding: 12px 15px; border-bottom: 1px solid #22C55E; border-radius: 4px 4px 0 0; margin: -40px -20px 20px -20px; display: flex; justify-content: space-between; align-items: center;">
+    <span style="color: #888; font-family: 'Courier New', monospace; font-size: 12px;">📄 dev.js</span>
+    <span style="color: #22C55E; font-family: 'Courier New', monospace; font-size: 11px;">✓ Saved</span>
+  </div>
 
-<!-- Animated Typing Code Snippets Using External Service -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=180&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" />
+  <!-- Code Background -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; opacity: 0.1; font-family: 'Courier New', monospace; font-size: 11px; color: #22C55E; white-space: pre; overflow: hidden; z-index: 0;">
+const dev = { name: "Swamy", passion: "Code" }
+function buildAsync() { return "Scalable Systems" }
+const skills = ["Backend", "AI", "System Design"]
+async function createValue() { }
+  </div>
+
+  <!-- Main Content -->
+  <div style="position: relative; z-index: 1; text-align: center;">
+    <div style="font-family: 'Courier New', monospace; color: #0EA5E9; font-size: 14px; margin-bottom: 10px;">
+      <span style="color: #22C55E;">&lt;dev</span><span style="color: #888;"> className</span><span style="color: #F97316;">=</span><span style="color: #FFA500;">"developer"</span><span style="color: #22C55E;">&gt;</span>
+    </div>
+
+    <h1 style="font-family: 'Fira Code', monospace; font-size: 52px; color: #ffffff; margin: 15px 0; text-shadow: 0 0 20px rgba(34, 197, 94, 0.5);">
+      Hi 👋, I'm Swamy B S
+    </h1>
+
+    <div style="font-family: 'Courier New', monospace; color: #22C55E; font-size: 14px;">
+      <span style="color: #888;">// </span><span style="color: #22C55E;">Full Stack Developer | AI + Backend Enthusiast</span>
+    </div>
+
+    <div style="font-family: 'Courier New', monospace; color: #0EA5E9; font-size: 14px; margin-top: 10px;">
+      <span style="color: #22C55E;">&lt;/dev&gt;</span>
+    </div>
+  </div>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=80&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
