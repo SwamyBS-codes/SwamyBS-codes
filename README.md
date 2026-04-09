@@ -50,9 +50,26 @@
 
 > A quick snapshot of my current learning path and engineering interests.
 
-Information Science and Engineering student at RV College of Engineering, focused on scalable backend systems, AI-powered applications, and distributed systems.
-
-Currently mastering System Design, Advanced DSA, Cloud Infrastructure, and AI/ML. I work mostly with JavaScript, Node.js, MongoDB, WebRTC, RAG systems, and LLM integration, with a problem-oriented and scalability-first approach.
+<p>
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=googlescholar&logoColor=22C55E" alt="Education icon" />
+  Information Science and Engineering student at RV College of Engineering.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=nodedotjs&logoColor=22C55E" alt="Backend icon" />
+  Focused on scalable backend systems, AI-powered applications, and distributed systems.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Learning icon" />
+  Currently mastering System Design, Advanced DSA, Cloud Infrastructure, and AI/ML.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Tech stack icon" />
+  Working with JavaScript, Node.js, MongoDB, WebRTC, RAG systems, and LLM integration.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=target&logoColor=0EA5E9" alt="Approach icon" />
+  Problem-oriented development with scalability-first design and continuous learning.
+</p>
 ---
 ## ✦ 🧰 Tech & Tools
 
