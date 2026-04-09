@@ -1,12 +1,16 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Swamy B S</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=220&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Animated hero banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=80&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
-<h4>ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
+<h4>🎯 ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0b1220&height=58&section=header&text=Building%20Scalable%20Backend%20%2B%20AI%20Products&fontSize=20&fontColor=22C55E&animation=fadeIn" alt="Hero headline card" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0b1220&height=3&section=header&animation=twinkling" width="100%" alt="Divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0b1220&height=70&section=header&text=Building%20Scalable%20Backend%20%2B%20AI%20Products&fontSize=22&fontColor=22C55E&animation=fadeIn" alt="Hero headline card" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0b1220&height=3&section=header&animation=twinkling" width="100%" alt="Divider" />
 
 <p>
   <img src="https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
