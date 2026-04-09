@@ -106,15 +106,20 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwamyBS-codes&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</div>
+### Top Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
+</p>
 
 ---
 
 ## 🧩 Coding Profile
 
-- **LeetCode**: Solved **700+ problems** | Rating **1600+** | **Top 20%**
+<!-- - **LeetCode**: Solved **700+ problems** | Rating **1600+** | **Top 20%** -->
 
 ---
 
@@ -122,7 +127,7 @@
 
 - Building scalable full-stack apps
 - Improving backend and system design skills
-- Exploring AI + Web integrations
+<!-- - Exploring AI + Web integrations -->
 
 ---
 
@@ -131,16 +136,24 @@
 <div align="center">
 
 <a href="https://github.com/SwamyBS-codes/Peer-to-Peer-File-Sharing-Network">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwamyBS-codes&repo=Peer-to-Peer-File-Sharing-Network&theme=github_dark&hide_border=true" alt="Pinned project 1" />
+  <img src="https://img.shields.io/badge/Peer--to--Peer_File_Sharing_Network-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Pinned project 1" />
 </a>
 <a href="https://github.com/SwamyBS-codes/Pharmacy-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwamyBS-codes&repo=Pharmacy-Management-System&theme=github_dark&hide_border=true" alt="Pinned project 2" />
+  <img src="https://img.shields.io/badge/Pharmacy_Management_System-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Pinned project 2" />
 </a>
 <a href="https://github.com/SwamyBS-codes/Socratic-Questions-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwamyBS-codes&repo=Socratic-Questions-Generator&theme=github_dark&hide_border=true" alt="Pinned project 3" />
+  <img src="https://img.shields.io/badge/Socratic_Questions_Generator-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Pinned project 3" />
 </a>
 
 </div>
+
+<table>
+  <tr>
+    <td width="33%"><strong>Peer-to-Peer File Sharing Network</strong><br/>WebRTC based resilient file transfer with chunking and retry logic.</td>
+    <td width="33%"><strong>Pharmacy Management System</strong><br/>Full-stack pharmacy workflow app with ML-based demand forecasting.</td>
+    <td width="33%"><strong>Socratic Questions Generator</strong><br/>RAG-powered adaptive system for concept-deepening question generation.</td>
+  </tr>
+</table>
 
 ---
 
