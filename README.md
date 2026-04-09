@@ -3,7 +3,7 @@
 <h1>Swamy B S</h1>
 <h3>🚀 ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;500%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;500%2B+LeetCode+Problems+Solved" alt="Typing SVG" /> 
 
 <p>
   <a href="https://github.com/SwamyBS-codes">
@@ -161,11 +161,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
