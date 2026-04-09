@@ -4,7 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy;Full+Stack+Developer;AI+%2B+Backend+Enthusiast;500%2B+LeetCode+Problems+Solved" alt="Typing SVG" /> 
 <h3>ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h3>
 
-
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/System_Design-Active_Learning-22C55E?style=flat-square" alt="System Design" />
+</p>
 
 <p>
   <a href="https://github.com/SwamyBS-codes">
@@ -21,7 +24,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 👨‍💻 About Me
 
@@ -32,7 +37,9 @@
 - 💬 Ask me about: **JavaScript, Node.js, MongoDB, WebRTC, RAG systems**
 - ✉️ Email: **swamybs272@gmail.com**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 🧰 Tech & Tools
 
@@ -65,41 +72,57 @@
   <img src="https://img.shields.io/badge/Postman-2D2D2D?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 🚀 Featured Projects
 
-
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%" style="vertical-align:top; padding:14px; border:1px solid #30363d; border-radius:14px;">
       <h3>🔗 Peer-to-Peer File Sharing Network</h3>
-      <p>Real-time P2P file transfer system built with WebRTC, chunked transfer, and retry logic for reliability on unstable connections.</p>
+      <p>Real-time P2P sharing with chunked transfer, retry logic, and resilient delivery over unstable networks.</p>
       <p>
         <img src="https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square" alt="WebRTC" />
-        <img src="https://img.shields.io/badge/Chunked%20Transfer-238636?style=flat-square" alt="Chunked Transfer" />
+        <img src="https://img.shields.io/badge/Chunking-238636?style=flat-square" alt="Chunking" />
+        <img src="https://img.shields.io/badge/Reliability-f59e0b?style=flat-square" alt="Reliability" />
       </p>
     </td>
-    <td width="33%">
+    <td width="50%" style="vertical-align:top; padding:14px; border:1px solid #30363d; border-radius:14px;">
       <h3>💊 Pharmacy Management System</h3>
-      <p>Full-stack platform for pharmacy workflows with integrated ML forecasting for stock prediction and smarter inventory planning.</p>
+      <p>A full-stack pharmacy platform with ML demand forecasting to improve inventory planning and stock availability.</p>
       <p>
-        <img src="https://img.shields.io/badge/Full%20Stack-0e7490?style=flat-square" alt="Full Stack" />
-        <img src="https://img.shields.io/badge/ML%20Forecasting-7c3aed?style=flat-square" alt="ML Forecasting" />
+        <img src="https://img.shields.io/badge/Full_Stack-0e7490?style=flat-square" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/ML_Forecasting-7c3aed?style=flat-square" alt="ML Forecasting" />
+        <img src="https://img.shields.io/badge/Inventory-16a34a?style=flat-square" alt="Inventory" />
       </p>
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align:top; padding:14px; border:1px solid #30363d; border-radius:14px;">
       <h3>🧠 Socratic Questions Generator</h3>
-      <p>RAG-based adaptive AI system that generates targeted Socratic prompts to deepen understanding and critical thinking.</p>
+      <p>RAG-driven adaptive question generation system designed to deepen conceptual understanding through guided prompts.</p>
       <p>
         <img src="https://img.shields.io/badge/RAG-9a3412?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Adaptive%20AI-0369a1?style=flat-square" alt="Adaptive AI" />
+        <img src="https://img.shields.io/badge/Adaptive_AI-0369a1?style=flat-square" alt="Adaptive AI" />
+        <img src="https://img.shields.io/badge/LLM-8b5cf6?style=flat-square" alt="LLM" />
+      </p>
+    </td>
+    <td width="50%" style="vertical-align:top; padding:14px; border:1px dashed #30363d; border-radius:14px;">
+      <h3>⚡ More Experiments Coming</h3>
+      <p>Currently building production-ready systems in backend architecture, AI integrations, and performance-first web apps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Building-22c55e?style=flat-square" alt="Building" />
+        <img src="https://img.shields.io/badge/Focus-System_Design-0ea5e9?style=flat-square" alt="System Design" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -117,19 +140,43 @@
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 🧩 Coding Profile
 
-<!-- - **LeetCode**: Solved **700+ problems** | Rating **1600+** | **Top 20%** -->
+- **LeetCode**: Solved **700+ problems** | Rating **1600+** | **Top 20%**
+- **Problem Solving Focus**: Graphs, Dynamic Programming, Sliding Window, and Backend-driven DSA patterns
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 🎯 Current Focus
 
 - Building scalable full-stack apps
 - Improving backend and system design skills
-<!-- - Exploring AI + Web integrations -->
+- Exploring AI + Web integrations
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:22C55E&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
+
+## 🛠️ Now Building - 2026 Timeline
+
+<div align="center">
+  <img src="https://img.shields.io/badge/2026_Goals-Execution_Mode-111827?style=for-the-badge&logo=github&logoColor=22C55E" alt="2026 Goals" />
+</div>
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Q2 2026</strong><br/>Backend Reliability Sprint<br/><img src="https://img.shields.io/badge/Progress-70%25-22C55E?style=flat-square" alt="Q2" /></td>
+    <td width="25%" align="center"><strong>Q3 2026</strong><br/>System Design Deep Dive<br/><img src="https://img.shields.io/badge/Progress-45%25-0EA5E9?style=flat-square" alt="Q3" /></td>
+    <td width="25%" align="center"><strong>Q4 2026</strong><br/>AI + Web Product Launches<br/><img src="https://img.shields.io/badge/Planned-2_Projects-F59E0B?style=flat-square" alt="Q4" /></td>
+    <td width="25%" align="center"><strong>Milestone</strong><br/>1000+ LeetCode Target<br/><img src="https://img.shields.io/badge/Target-1000%2B-7C3AED?style=flat-square" alt="Milestone" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -152,7 +199,6 @@
       <p>
         <img src="https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square" alt="WebRTC" />
         <img src="https://img.shields.io/badge/Chunked_Transfer-238636?style=flat-square" alt="Chunked Transfer" />
-        <img src="https://img.shields.io/badge/Retry_Logic-f59e0b?style=flat-square" alt="Retry Logic" />
       </p>
     </td>
     <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
@@ -166,7 +212,6 @@
       <p>
         <img src="https://img.shields.io/badge/Full_Stack-0e7490?style=flat-square" alt="Full Stack" />
         <img src="https://img.shields.io/badge/ML_Forecasting-7c3aed?style=flat-square" alt="ML Forecasting" />
-        <img src="https://img.shields.io/badge/Inventory_AI-16a34a?style=flat-square" alt="Inventory AI" />
       </p>
     </td>
     <td width="33%" style="vertical-align:top; padding:16px; border:1px solid #30363d; border-radius:16px; background:linear-gradient(180deg, #0d1117 0%, #111827 100%);">
@@ -180,13 +225,14 @@
       <p>
         <img src="https://img.shields.io/badge/RAG-9a3412?style=flat-square" alt="RAG" />
         <img src="https://img.shields.io/badge/Adaptive_AI-0369a1?style=flat-square" alt="Adaptive AI" />
-        <img src="https://img.shields.io/badge/LLM_Flow-8b5cf6?style=flat-square" alt="LLM Flow" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=2&section=header&animation=twinkling" width="100%" alt="section divider" />
+</div>
 
 ## 🐍 Contribution Snake
 
