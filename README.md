@@ -1,6 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=220&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Animated hero banner" />
+<!-- Animated Coding Background Hero Section -->
+<div style="position: relative; background: linear-gradient(135deg, #0b1220 0%, #111827 50%, #0b1220 100%); padding: 60px 20px; border-radius: 12px; overflow: hidden; margin: 20px 0;">
+  
+  <!-- Animated Code Background Elements -->
+  <div style="position: absolute; top: 10px; left: 5%; font-family: 'Courier New', monospace; font-size: 12px; color: #22C55E; opacity: 0.3; animation: fadeInOut 4s infinite;">
+    <pre>const dev = {
+  name: "Swamy",
+  passion: "Code"
+}</pre>
+  </div>
+  
+  <div style="position: absolute; top: 20px; right: 5%; font-family: 'Courier New', monospace; font-size: 12px; color: #0EA5E9; opacity: 0.3; animation: fadeInOut 5s infinite; animation-delay: 1s;">
+    <pre>function buildAsync() {
+  return "Scalable";
+}</pre>
+  </div>
+  
+  <div style="position: absolute; bottom: 15px; left: 8%; font-family: 'Courier New', monospace; font-size: 11px; color: #F97316; opacity: 0.25; animation: fadeInOut 6s infinite; animation-delay: 2s;">
+    <pre>AI + Backend = ❤️</pre>
+  </div>
+
+  <style>
+    @keyframes fadeInOut {
+      0%, 100% { opacity: 0.15; }
+      50% { opacity: 0.4; }
+    }
+    @keyframes codeGlow {
+      0%, 100% { text-shadow: 0 0 5px rgba(34, 197, 94, 0.5); }
+      50% { text-shadow: 0 0 15px rgba(34, 197, 94, 0.8); }
+    }
+  </style>
+
+  <!-- Main Greeting Banner -->
+  <h1 style="font-family: 'Fira Code', monospace; font-size: 48px; margin: 0; color: #ffffff; position: relative; z-index: 2;">
+    <span style="background: linear-gradient(90deg, #0EA5E9, #22C55E, #0EA5E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: bold;">
+      Hi 👋, I'm Swamy B S
+    </span>
+  </h1>
+
+  <div style="position: relative; z-index: 2; margin-top: 15px; font-family: 'Courier New', monospace; font-size: 14px; color: #22C55E;">
+    <span style="animation: codeGlow 2s ease-in-out infinite;">// Crafting Scalable Systems & AI Solutions</span>
+  </div>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=80&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
