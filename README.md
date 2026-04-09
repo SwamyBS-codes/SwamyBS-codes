@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=260&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
 
 <!-- Animated Typing Code Snippets Using External Service -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=120&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" style="display:block; margin:0 auto -12px auto;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=120&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" style="display:block; margin:0 auto -12px auto; max-width:100%; height:auto;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=55&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" style="display:block; margin:0 auto;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=55&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 <h4>🎯 ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
 
@@ -36,7 +36,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open_to-Internships_%7C_Backend_%7C_AI_Roles-111827?style=for-the-badge&logo=rocket&logoColor=22C55E" alt="Recruiter CTA" />
+  <img src="https://img.shields.io/badge/Open_to-Internships_%7C_Backend_%7C_AI_%7C_Bengaluru-111827?style=for-the-badge&logo=rocket&logoColor=22C55E" alt="Recruiter CTA" />
 </p>
 
 </div>
@@ -55,12 +55,14 @@
 - 📚 Currently deep diving into: **Web Dev, DSA, and Applied AI**
 - 💬 Ask me about: `JavaScript`, `Node.js`, `MongoDB`, `IoT projects`, `AI + Web integrations`
 - ✉️ Reach me at: **swamybs272@gmail.com**
+
 ---
+
 ## ✦ 🧰 Tech & Tools
 
 > My everyday toolkit for building full-stack and AI-powered applications.
 
-<table>
+<table style="width:100%;">
   <tr>
     <td width="50%" style="vertical-align:top; padding:12px; border:1px solid #30363d; border-radius:12px;">
       <strong>Languages</strong><br/><br/>
@@ -100,10 +102,10 @@
 
 > Selected projects that show practical backend architecture and AI integration work.
 
-<table>
+<table style="width:100%;">
   <tr>
     <td width="50%" style="vertical-align:top; padding:14px; border:1px solid #30363d; border-radius:14px;">
-      <h3>🔗 Peer-to-Peer File Sharing Network</h3>
+      <h3>🔗 <a href="https://github.com/SwamyBS-codes?tab=repositories&q=p2p" target="_blank">Peer-to-Peer File Sharing Network</a></h3>
       <p>Real-time P2P sharing with chunked transfer, retry logic, and resilient delivery over unstable networks.</p>
       <p>
         <img src="https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square" alt="WebRTC" />
@@ -112,7 +114,7 @@
       </p>
     </td>
     <td width="50%" style="vertical-align:top; padding:14px; border:1px solid #30363d; border-radius:14px;">
-      <h3>💊 Pharmacy Management System</h3>
+      <h3>💊 <a href="https://github.com/SwamyBS-codes?tab=repositories&q=pharmacy" target="_blank">Pharmacy Management System</a></h3>
       <p>A full-stack pharmacy platform with ML demand forecasting to improve inventory planning and stock availability.</p>
       <p>
         <img src="https://img.shields.io/badge/Full_Stack-0e7490?style=flat-square" alt="Full Stack" />
@@ -123,7 +125,7 @@
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top; padding:14px; border:1px solid #30363d; border-radius:14px;">
-      <h3>🧠 Socratic Questions Generator</h3>
+      <h3>🧠 <a href="https://github.com/SwamyBS-codes?tab=repositories&q=socratic" target="_blank">Socratic Questions Generator</a></h3>
       <p>RAG-driven adaptive question generation system designed to deepen conceptual understanding through guided prompts.</p>
       <p>
         <img src="https://img.shields.io/badge/RAG-9a3412?style=flat-square" alt="RAG" />
@@ -155,7 +157,7 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub streak" />
 </div>
 
-### Top Languages
+## ✦ 🧾 Top Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -193,7 +195,7 @@
   <img src="https://img.shields.io/badge/2026_Goals-Execution_Mode-111827?style=for-the-badge&logo=github&logoColor=22C55E" alt="2026 Goals" />
 </div>
 
-<table>
+<table style="width:100%;">
   <tr>
     <td width="25%" align="center"><strong>Q2 2026</strong><br/>Backend Reliability Sprint<br/><img src="https://img.shields.io/badge/Progress-70%25-22C55E?style=flat-square" alt="Q2" /></td>
     <td width="25%" align="center"><strong>Q3 2026</strong><br/>System Design Deep Dive<br/><img src="https://img.shields.io/badge/Progress-45%25-0EA5E9?style=flat-square" alt="Q3" /></td>
@@ -222,5 +224,5 @@
 </div>
 
 <div align="center">
-  <h3>Not just writing code — solving problems.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0b1220,100:111827&height=70&section=header&text=Not%20just%20writing%20code%20-%20solving%20problems.&fontSize=24&fontColor=22C55E&animation=fadeIn" alt="Bottom quote" />
 </div>
