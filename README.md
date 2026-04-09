@@ -171,5 +171,5 @@
 ---
 
 <div align="center">
-  <h3>"Code for marks, build for impact."</h3>
+  <h3>Not just writing code — solving problems.</h3>
 </div>
