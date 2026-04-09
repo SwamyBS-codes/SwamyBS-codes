@@ -224,5 +224,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0b1220,100:111827&height=90&section=header&text=Not%20just%20writing%20code%20-%20solving%20problems.&fontSize=24&fontColor=22C55E&animation=fadeIn" alt="Bottom quote" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0b1220,100:111827&height=60&section=header&text=Not%20just%20writing%20code%20-%20solving%20problems.&fontSize=24&fontColor=22C55E&animation=fadeIn" alt="Bottom quote" />
 </div>
