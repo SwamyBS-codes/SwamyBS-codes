@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Coding Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=220&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S&desc=Full%20Stack%20Developer%20%7C%20AI%20%2B%20Backend%20Enthusiast&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=70&animation=twinkling" width="100%" alt="Animated hero banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0EA5E9&height=220&section=header&text=Hi%20👋,%20I'm%20Swamy%20B%20S />
 
 
 
