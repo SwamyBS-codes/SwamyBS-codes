@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-SwamyBS--codes-181717?style=for-the-badge&logo=github)](https://github.com/SwamyBS-codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swamy%20B%20S-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swamy-b-s-86613628b)
 [![Email](https://img.shields.io/badge/Email-swamybs272@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:swamybs272@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SwamyBS-codes&style=for-the-badge&color=22C55E)](https://github.com/SwamyBS-codes)
+
 
 <br/>
 
