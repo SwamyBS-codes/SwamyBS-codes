@@ -92,14 +92,16 @@
 
 ---
 
-### 🧠 [Socratic Questions Generator](https://github.com/SwamyBS-codes?tab=repositories&q=socratic)
+### ☁️ [CloudOps Platform](https://github.com/SwamyBS-codes/cloudops)
 
-> RAG-driven adaptive question generation system to deepen conceptual understanding through guided Socratic prompts.
+> Production-ready cloud deployment project featuring containerized services, AWS infrastructure provisioning, automated CI/CD pipelines, and scalable full-stack application hosting.
 
-![RAG](https://img.shields.io/badge/RAG-9a3412?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-8b5cf6?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Adaptive AI](https://img.shields.io/badge/Adaptive_AI-0369a1?style=flat-square)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-16A34A?style=flat-square)
 
 ---
 
