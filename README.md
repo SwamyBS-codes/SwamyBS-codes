@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:22C55E&height=100&section=header&text=Building%20Scalable%20Backend%20%2B%20AI%20Products&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
+
 
 <br/>
 
