@@ -19,7 +19,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![Rating](https://img.shields.io/badge/Rating-1600%2B_%7C_Top_20%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![Open to](https://img.shields.io/badge/Open_to-Internships_%7C_Backend_%7C_AI-22C55E?style=flat-square)
+![Open to](https://img.shields.io/badge/Open_to-Internships_%7C_Backend?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-0EA5E9?style=flat-square)
 
 </div>
