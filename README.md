@@ -124,27 +124,6 @@
 
 **Focus areas:** Graphs · Dynamic Programming · Sliding Window · Backend-driven DSA patterns
 
----
-
-## 🛠️ 2026 Roadmap
-
-| Quarter | Focus | Progress |
-|---------|-------|----------|
-| Q2 2026 | Backend Reliability Sprint | ![70%](https://img.shields.io/badge/Progress-70%25-22C55E?style=flat-square) |
-| Q3 2026 | System Design Deep Dive | ![45%](https://img.shields.io/badge/Progress-45%25-0EA5E9?style=flat-square) |
-| Q4 2026 | AI + Web Product Launches | ![Planned](https://img.shields.io/badge/Planned-2_Projects-F59E0B?style=flat-square) |
-| Milestone | 1000+ LeetCode | ![700→1000](https://img.shields.io/badge/Target-1000%2B-7C3AED?style=flat-square) |
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SwamyBS-codes/SwamyBS-codes/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</div>
-
----
-
 <div align="center">
 
 ![Available](https://img.shields.io/badge/Available_for-Internships-22C55E?style=flat-square)
