@@ -29,7 +29,6 @@
 ## 🧠 About Me
 
 - 🎓 **Information Science & Engineering** at RV College of Engineering, Bengaluru
-- 🚀 I build projects that can become **startups**, not just assignments
 - 💡 Interested in **AI-powered products**, scalable web platforms, and **System Design**
 - 📚 Currently deep-diving into: **Web Dev · DSA · System Design**
 - 💬 Ask me about: `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PostgreSQL` `AI + Web integrations`
