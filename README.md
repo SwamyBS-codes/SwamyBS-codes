@@ -6,7 +6,7 @@
 <!-- Animated Typing Code Snippets Using External Service -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=100&lines=const%20dev%20%3D%20%7B;name%3A%20%22Swamy%22%2C;passion%3A%20%22Code%22;%7D;function%20buildAsync()%20%7B;return%20%22Scalable%20Systems%22;%7D;AI%20%2B%20Backend%20%3D%20❤️" alt="Animated Code Snippet" style="display:block; margin:0 auto -12px auto; max-width:100%; height:auto;" /> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Developer;AI+%2B+Backend+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" style="display:block; margin:0 auto; max-width:100%; height:auto;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Swamy+B+S+%F0%9F%91%8B" alt="Typing SVG" style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 <h4>🎯 ISE Student | 💡 Builder of Scalable Systems | R V College of Engineering | 🌏 Bengaluru, Karnataka, India</h4>
 
