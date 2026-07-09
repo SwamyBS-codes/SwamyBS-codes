@@ -1,194 +1,142 @@
-```markdown
 <div align="center">
 
-# Hi, I'm Swamy B S 👋
+<div align="center">
+  <h1 style="color:#22C55E;">Hi, I'm Swamy B S 👋</h1>
+</div>
 
-### Backend Developer • Cloud Enthusiast • Information Science Student @ RV College of Engineering
+<br/>
 
-Building scalable backend systems, cloud-native applications, and developer tools.
+
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SwamyBS--codes-181717?style=for-the-badge&logo=github)](https://github.com/SwamyBS-codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swamy%20B%20S-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swamy-b-s-86613628b)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SwamyBS)
 [![Email](https://img.shields.io/badge/Email-swamybs272@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:swamybs272@gmail.com)
+
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Bengaluru,_India-0EA5E9?style=flat-square)
-![Open To](https://img.shields.io/badge/Open_to-Software_Engineering_Internships-22C55E?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-AWS_&_Docker-FF9900?style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-700+_Problems-FFA116?style=flat-square&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Rating](https://img.shields.io/badge/Rating-1600%2B_%7C_Top_20%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Open to](https://img.shields.io/badge/Open_to-Software_Engineering_Internships-22C55E?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-0EA5E9?style=flat-square)
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-- 🎓 **B.E. Information Science & Engineering** at **RV College of Engineering** (2023–2027)
-- 💻 Passionate about **Backend Development**, **Cloud Infrastructure**, and **Distributed Systems**
-- ☁️ Building scalable applications with **Node.js, React, Docker, AWS, PostgreSQL & Redis**
-- 📚 Currently learning **System Design**, **DevOps**, and scalable backend architecture
-- 🧩 Solved **700+ problems** on LeetCode
-- 📫 Reach me at **swamybs272@gmail.com**
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
+- 🎓 **Information Science & Engineering** at RV College of Engineering, Bengaluru
+- 💡 Interested in **AI-powered products**, scalable web platforms, and **System Design**
+- 📚 Currently deep-diving into: **Web Dev · DSA · System Design**
+- 💬 Ask me about: `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PostgreSQL` `AI + Web integrations`
+- 📩 Reach me at **swamybs272@gmail.com**
 
 ---
 
-# 🚀 Featured Projects
+## 🧰 Tech Stack
 
-## ☁️ CloudOps — Automated CI/CD & Deployment Platform
+**Languages**
 
-> Automated deployment platform that provisions, containerizes, and deploys GitHub repositories to AWS EC2.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Highlights
+**Frontend**
 
-- 🚀 Automated GitHub repository deployments
-- 🐳 Multi-stage Dockerfile generation
-- ⚡ Automatic framework detection
-- 🔒 Secure GitHub Webhook verification (HMAC-SHA256)
-- 📡 Live deployment logs with Socket.io
-- ☁️ AWS EC2 deployment orchestration
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws)
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-2C2C2C?style=flat-square&logo=express&logoColor=white)
 
-## 🔗 Shortify — Smart URL Shortening Platform
+**Databases**
 
-> Full-stack URL shortening platform with analytics, Redis caching, authentication, password-protected links, QR generation and expiration policies.
+![MongoDB](https://img.shields.io/badge/MongoDB-0B2A20?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-001F3F?style=flat-square&logo=mysql&logoColor=F29111)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Highlights
+**Tools**
 
-- 🔗 Custom aliases
-- 🔐 JWT Authentication
-- ⚡ Redis cache layer
-- 📊 Click analytics dashboard
-- 📱 QR Code generation
-- ⏳ Expiring links
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2D2D2D?style=flat-square&logo=postman&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📂 PeerShare — Secure Peer-to-Peer File Sharing
+## 🚀 Featured Projects
 
-> Browser-based decentralized file sharing application powered by WebRTC DataChannels.
+### 🔗 [Peer-to-Peer File Sharing Network](https://github.com/SwamyBS-codes?tab=repositories&q=p2p)
 
-### Highlights
+> Real-time P2P sharing with chunked transfer, retry logic, and resilient delivery over unstable networks.
 
-- 🌐 Peer-to-peer architecture
-- 📦 Chunked file transfer
-- 🔄 Resume interrupted uploads
-- 🔐 SHA-256 HMAC secured sessions
-- ⚡ Backpressure-aware transfer
-- ✅ Checksum verification
-
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![WebRTC](https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Chunked Transfer](https://img.shields.io/badge/Chunked_Transfer-238636?style=flat-square)
+![Reliability](https://img.shields.io/badge/Fault_Tolerant-f59e0b?style=flat-square)
 
 ---
 
-# 🏆 Achievements
+### 💊 [Pharmacy Management System](https://github.com/SwamyBS-codes?tab=repositories&q=pharmacy)
 
-- 🧩 **700+ Problems Solved** on LeetCode
-- 🥈 Runner-Up — Coding Chef, Nagarjuna College of Engineering (2026)
-- 🥈 Runner-Up — Coding Competition, KLE Institutes (2025)
-- 📜 NPTEL — Introduction to Graph Algorithms
+> Full-stack pharmacy platform with ML demand forecasting to improve inventory planning and stock availability.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B2A20?style=flat-square&logo=mongodb&logoColor=47A248)
+![ML Forecasting](https://img.shields.io/badge/ML_Forecasting-7c3aed?style=flat-square)
 
 ---
 
-# 📊 GitHub Stats
+### ☁️ [CloudOps Platform](https://github.com/SwamyBS-codes/cloudops)
+
+> Production-ready cloud deployment project featuring containerized services, AWS infrastructure provisioning, automated CI/CD pipelines, and scalable full-stack application hosting.
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-16A34A?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwamyBS-codes&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&bg_color=0D1117" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 
 </div>
 
 ---
 
-# 🧩 Competitive Programming
+## 🧩 Competitive Programming
 
-| Platform | Solved | Rating |
-|-----------|--------|--------|
-| LeetCode | **700+** | **1600+** |
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-<a href="mailto:swamybs272@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://github.com/SwamyBS-codes"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/swamy-b-s-86613628b"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
-
----
+| Platform | Solved | Rating | Rank |
+|----------|--------|--------|------|
+| LeetCode | 700+ | 1600+ | Top 20% |
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SwamyBS-codes&style=flat-square&color=22C55E)
+![Available](https://img.shields.io/badge/Available_for-Internships-22C55E?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Bengaluru-0EA5E9?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI-F59E0B?style=flat-square)
+![Mindset](https://img.shields.io/badge/Mindset-Build_for_Impact-7C3AED?style=flat-square)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SwamyBS-codes.SwamyBS-codes)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0D1117&height=120&section=footer&text=Building%20Scalable%20Software&fontColor=ffffff&fontSize=24&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0b1220&height=100&section=footer&text=Not%20just%20writing%20code%20%E2%80%94%20solving%20problems.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
 
 </div>
-```
+
+
+update this based on this 
