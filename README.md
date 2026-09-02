@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:0b1220&height=200&section=header&text=Swamy%20B%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI-focused%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<div align="center">
+  <h1 style="color:#22C55E;">Hi, I'm Swamy B S 👋</h1>
+</div>
+
+<br/>
+
+
 
 <br/>
 
@@ -8,34 +14,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swamy%20B%20S-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swamy-b-s-86613628b)
 [![Email](https://img.shields.io/badge/Email-swamybs272@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:swamybs272@gmail.com)
 
+
 <br/>
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![Rating](https://img.shields.io/badge/Rating-1600%2B_%7C_Top_20%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![Available](https://img.shields.io/badge/Open_to-Software_Engineering_Internships-22C55E?style=flat-square)
+![Open to](https://img.shields.io/badge/Open_to-Software_Engineering_Internships-22C55E?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-0EA5E9?style=flat-square)
 
 </div>
 
-<br/>
+---
 
 ## 🧠 About Me
 
-```yaml
-education: "Information Science & Engineering @ RV College of Engineering, Bengaluru"
-interests:  ["AI-powered products", "Scalable web platforms", "System Design"]
-currently_learning: ["Web Dev", "DSA", "System Design"]
-ask_me_about: ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL", "PostgreSQL", "AI + Web integrations"]
-contact: "swamybs272@gmail.com"
-```
+- 🎓 **Information Science & Engineering** at RV College of Engineering, Bengaluru
+- 💡 Interested in **AI-powered products**, scalable web platforms, and **System Design**
+- 📚 Currently deep-diving into: **Web Dev · DSA · System Design**
+- 💬 Ask me about: `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PostgreSQL` `AI + Web integrations`
+- 📩 Reach me at **swamybs272@gmail.com**
 
-<br/>
+---
 
 ## 🧰 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
 
 **Languages**
 
@@ -48,11 +49,9 @@ contact: "swamybs272@gmail.com"
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
-
-</td>
-<td valign="top" width="50%">
 
 **Backend**
 
@@ -72,77 +71,61 @@ contact: "swamybs272@gmail.com"
 ![Postman](https://img.shields.io/badge/Postman-2D2D2D?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 🔗 [Peer-to-Peer File Sharing Network](https://github.com/SwamyBS-codes?tab=repositories&q=p2p)
 
-### 🔗 P2P File Sharing
-**[View Repo →](https://github.com/SwamyBS-codes?tab=repositories&q=p2p)**
+> Real-time P2P sharing with chunked transfer, retry logic, and resilient delivery over unstable networks.
 
-Real-time peer-to-peer sharing with chunked transfer, retry logic, and resilient delivery over unstable networks.
+![WebRTC](https://img.shields.io/badge/WebRTC-1f6feb?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Chunked Transfer](https://img.shields.io/badge/Chunked_Transfer-238636?style=flat-square)
+![Reliability](https://img.shields.io/badge/Fault_Tolerant-f59e0b?style=flat-square)
 
-`WebRTC` `Node.js` `Chunked Transfer` `Fault Tolerant`
+---
 
-</td>
-<td width="33%" valign="top">
+### 💊 [Pharmacy Management System](https://github.com/SwamyBS-codes?tab=repositories&q=pharmacy)
 
-### 💊 Pharmacy Management
-**[View Repo →](https://github.com/SwamyBS-codes?tab=repositories&q=pharmacy)**
+> Full-stack pharmacy platform with ML demand forecasting to improve inventory planning and stock availability.
 
-Full-stack pharmacy platform with ML demand forecasting to improve inventory planning and stock availability.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B2A20?style=flat-square&logo=mongodb&logoColor=47A248)
+![ML Forecasting](https://img.shields.io/badge/ML_Forecasting-7c3aed?style=flat-square)
 
-`React` `Node.js` `MongoDB` `ML Forecasting`
+---
 
-</td>
-<td width="33%" valign="top">
+### ☁️ [CloudOps Platform](https://github.com/SwamyBS-codes/cloudops)
 
-### ☁️ CloudOps Platform
-**[View Repo →](https://github.com/SwamyBS-codes/cloudops)**
+> Production-ready cloud deployment project featuring containerized services, AWS infrastructure provisioning, automated CI/CD pipelines, and scalable full-stack application hosting.
 
-Production-ready cloud deployment with containerized services, AWS provisioning, and automated CI/CD pipelines.
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-16A34A?style=flat-square)
 
-`AWS EC2` `S3` `Docker` `Nginx` `CI/CD`
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwamyBS-codes&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=C9D1D9&bg_color=0D1117" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwamyBS-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&bg_color=0D1117" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SwamyBS-codes&theme=github-dark-blue&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 
 </div>
 
-<br/>
+---
 
 ## 🧩 Competitive Programming
 
-<div align="center">
-
 | Platform | Solved | Rating | Rank |
-|:---:|:---:|:---:|:---:|
-| 🟠 LeetCode | 700+ | 1600+ | Top 20% |
-
-</div>
-
-<br/>
+|----------|--------|--------|------|
+| LeetCode | 700+ | 1600+ | Top 20% |
 
 <div align="center">
 
@@ -154,3 +137,6 @@ Production-ready cloud deployment with containerized services, AWS provisioning,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0b1220&height=100&section=footer&text=Not%20just%20writing%20code%20%E2%80%94%20solving%20problems.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
 
 </div>
+
+
+update this based on this 
